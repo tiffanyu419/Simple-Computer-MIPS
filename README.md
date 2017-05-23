@@ -1,2 +1,9 @@
-# Simple-Computer-MIPS
-An implementation of a simple arithmetic computer that checks on validity of user input and outputs the solution. Variables can be saved and used. 
+# Simple Arithmetic Computer - MIPS Assembly
+by Tiffany Yu
+
+This assembly code is an implementation of a simple arithmetic computer that checks
+for the validity of the user input and computes the solution to simple math problems. 
+Variables can be stored and used. This code recognizes parenthesis and follows the order
+of operations. 
+
+Code was written using the MARS MIPS simulator. 
